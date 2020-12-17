@@ -104,6 +104,13 @@
               <goal>apps</goal>
             </goals>
           </execution>
+					<execution>
+						<id>export-app-keys</id>
+						<phase>install</phase>                        
+						<goals>
+							<goal>exportAppKeys</goal>
+						</goals>
+					</execution>
           <!--
           <execution>
             <id>create-config-reports</id>
