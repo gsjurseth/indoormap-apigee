@@ -1,0 +1,28 @@
+{
+  "abc": {
+    "terminals": {
+      "A": {
+        "gates": 10
+      },
+      "B": {
+        "gates": 10
+      },
+      "C": {
+        "gates": 10
+      }
+    }
+  },
+  "xyz": {
+    "terminals": {
+      "A": {
+        "gates": 5
+      },
+      "B": {
+        "gates": 5
+      },
+      "C": {
+        "gates": 5
+      }
+    }
+  }
+}
